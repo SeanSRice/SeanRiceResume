@@ -1,0 +1,32 @@
+1. How is the web different than the internet?
+
+The internet, which seems to be spoken of often in terms of its fiber optic cables and other physical aspect, is what connects
+paricipants and systems into a sort of system of systems, an international network - internet. The web on the other hand, in contrast
+to the trees originally used, is sort of a giant data strucutre that connects all the information in those systems to eachother. 
+The internet connects the people / systems, and the web connects the information those people and systems have. 
+
+2. Briefly describe how the internet works.
+
+The internet is like a big wire that infromation can travel on. When I log onto gmail, that information, along with my internet
+protocol address, is sent along the wire in packets to routers, which add some information of their own, and help my packets get on
+their way. My computer is a client of an ISP, who actually does the real footwork in sending my packets across the internet, where they
+are helped by more routers until they reach their destination. When a response is sent, is includes all the information that the original
+routers added, and this information is used to help backtrack the pack of the info back to my own computer. 
+
+3. What is a directory, and what is its relationship to files?
+
+Directory is synonymous folder, like what we see on our desktop. They function in the same way, by containing sets of related files. 
+Since directories / folders are also files, a directory can contain other directories, but the relation to files is that directoires
+contain them and help keep them organized. 
+
+4. Why is using a VCS beneficial?
+
+Using a VCS, or version control system, is benneficial because we can: 
+-Track changes: keep track of the changes the team has made, who's done what, the rate of progress, bugs, etc.
+-Revert back: When someone (or you) screws something up and breaks the code, the project can easily be reverted back to a previous
+  state when everything worked instead of having to find the bug or make a patchwork of bandaid code
+-Share and collaborate: multiple people can easily work on the same project at the same time in different places, and then 
+  consolidate their changes, or go on to create entirely different projects. 
+
+
+
