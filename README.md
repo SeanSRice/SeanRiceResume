@@ -1,2 +1,3 @@
-# web-dev-hw
-Repo for all my intro to web design homework
+Sean Rice
+
+I am a computer scientist here at the University of Montana, and I can do a handstand while longboarding. 
