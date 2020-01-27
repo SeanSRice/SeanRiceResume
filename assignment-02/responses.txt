@@ -6,4 +6,4 @@ My Responses:
 
 8. A cookie is like a little ID card that is stored on a user's computer so that when they visit a website, it can recognize and know who they are, and have an idea of some of their previous activities. For example, airline websites will store cookies on a user's computer so that they can figure out which flights they are seriously interested in, and inflate the prices accordingly - that's why we always shop in incognito mode.
 
-9. The 4 parts of a URL are protocol, domain, path, and file.
+9. The 3 parts of a URL are protocol, domain, and path.
