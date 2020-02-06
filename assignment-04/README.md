@@ -13,4 +13,4 @@ Sean Rice
     needed a lot of hand holding on top of your tutorials.
 
 15:
-![My Screenshot](./images/screenshot.PNG)
+![Assignment Screenshot](./images/screenshot.png)
