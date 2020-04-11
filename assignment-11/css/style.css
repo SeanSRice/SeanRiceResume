@@ -1,0 +1,129 @@
+body {
+  background-color: rgb(226, 124, 161);
+}
+/*I am a comment*/
+.main{
+  margin-top: 5em;
+}
+
+.top-logo{
+  display: inline-block;
+  margin: 0.2em .2em;
+  text-align: center;
+  float: left;
+
+}
+
+.site-name {
+    float: left;
+    padding-right: 1em;
+    color: rgb(65, 15, 54);
+}
+
+header {
+    position: fixed;
+    top: 0px;
+    background-color: rgb(219, 191, 215);
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin-top: 0;
+    height: 4em;
+    width: 100%;
+    text-align: right;
+}
+
+/* Set the layout of the menu: */
+.menu-item, .site-name {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    padding: 0.5em 1em;
+}
+
+.menu-item a {
+    color: rgb(65, 15, 54);
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: rgb(226, 124, 161);
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+    background-color: rgb(219, 191, 215);
+
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: rgb(65, 15, 54);
+    background-color: rgb(226, 124, 161);
+}
+
+
+
+.container {
+  background-color: rgb(219, 191, 215);
+  width: 30%;
+  margin: auto;
+  padding: 20px;
+
+  color: rgb(65, 15, 54);
+  text-align: center;
+
+}
+
+.left-section {
+  background-color: rgb(219, 191, 215);
+  width: 20%;
+  display: inline-block;
+  padding: 20px;
+  margin-left: 2%;
+  float: left;
+  color: rgb(65, 15, 54);
+}
+
+
+.pageTitle {
+   padding: 20px;
+   background-color: rgb(219, 191, 215);
+   color: rgb(65, 15, 54);
+   text-align: center;
+   width: 60%;
+}
+
+.blackBack {
+  background-color: black;
+}
+.centered {
+  margin: auto;
+}
