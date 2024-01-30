@@ -1,9 +1,0 @@
-My Responses:
-
-6. Data Travels on the internet as binary information, specifically as ones and zeros. A clock is used to help determine when several ones or zeros arrive one after the other. The data is broken up into segments called packets called packets that are sent via various hard connections and routers, often taking different paths, and then reassembled at the destination computer specified by the ip address. This can be done using radio waves (wifi) copper wire (lan) and even light (fiber optic cable).
-
-7. The DNS (Domain Name System) is sort like a phone book for IP addresses. Humans are bad at remembering numbers, but good at remembering names, so just like I can look up Tim in the phone book and get his phone number, I can type "google.com" into my browser, and the DNS will fetch my computer the IP address it actually needs to connect to in order to interact with google.
-
-8. A cookie is like a little ID card that is stored on a user's computer so that when they visit a website, it can recognize and know who they are, and have an idea of some of their previous activities. For example, airline websites will store cookies on a user's computer so that they can figure out which flights they are seriously interested in, and inflate the prices accordingly - that's why we always shop in incognito mode.
-
-9. The 4 parts of a URL are protocol, domain, path, and file.
